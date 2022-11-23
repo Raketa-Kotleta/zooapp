@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZooApp</string>
+    <string name="add_animal_menu_item">Добавить животное</string>
+    <string name="add_aviary_menu_item">Добавить вольер</string>
+    <string name="add_zoo_menu_item">Добавить зоопарк</string>
+    <string name="drop_menu_item">Удалить</string>
+    <string name="edit_menu_item">Изменить</string>
+    <string name="item_element_name_text">Name:</string>
+    <string name="item_element_id_text">id:</string>
+</resources>
